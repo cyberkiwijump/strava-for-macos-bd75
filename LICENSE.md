@@ -1,4 +1,4 @@
-# 
+# rare Strava for macOS Addon | GPS-tracking + heart-rate-monitoring offers the most advanced Strava for macOS addon, with GPS-tracking and heart-rate-monitoring. Ideal for macOS
 
 
 
